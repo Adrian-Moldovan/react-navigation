@@ -4,5 +4,6 @@ The project consists of multiple small projects and a navigation system between 
 
 1. Random Digits Set generator
 2. Random Colors Set generator
+3. Random Excuse generator
 
 

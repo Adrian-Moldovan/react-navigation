@@ -1,6 +1,7 @@
 import './App.css'
 import RandomColors from './components/RandomColors'
 import RandomDigits from './components/RandomDigits'
+import RandomExcuse from './components/RandomExcuse'
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
       </div> */}
       <RandomDigits/>
       <RandomColors/>
+      <RandomExcuse/>
     </>
   )
 }

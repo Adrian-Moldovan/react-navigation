@@ -13,13 +13,12 @@ function generateRandomColor() {
 }
 
 let initialColoSet = [];
-for (let i = 0; i < 5; i++) {
+for (let i = 0; i < 3; i++) {
     initialColoSet.push(generateRandomColor())
 }
 
 
 function RandomColors() {
-
     const [colors, setColors] = useState(initialColoSet);
 
     function generateNewSet() {
