@@ -48,7 +48,7 @@ const excuseData = {
         `created a portal to hell`,
         `stole my identity`,
         `gave me a speech about how to be a better person`,
-        `pissed in my shoes while I was sleeping!`
+        `pissed in my shoes while I was sleeping`
     ]
 }
 
