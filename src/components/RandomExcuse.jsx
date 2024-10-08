@@ -6,9 +6,11 @@ const excuseData = {
         `Beg you thousand pardons, but`,
         `I apologise, however`,
         `Holy shit! Get this: `,
-        `So I was minding my own business and boom!`,
+        `So I was minding my own business and boom: `,
         `This is a terrible excuse, but`,
-        `Holy Moses..`
+        `Holy Moses..`,
+        `Wow, do i have an epic story for you: `,
+        `This is going to sound crazy, but`
     ],
     perpetrator: [
         `Godzilla`,
@@ -17,7 +19,19 @@ const excuseData = {
         `a triceratops named Penelope`,
         `the director of "101 Dalmatians"`,
         `the ghost of Hitler`,
-        `the entire Roman Empire`
+        `the entire Roman Empire`,
+        `a sad clown`,
+        `the Pope`,
+        `a proffesional criket team`,
+        `my astrologist`,
+        `a grumpy cat`,
+        `a kinght in a black armor`,
+        `Princess Peach`,
+        `a very hungry vampire`,
+        `a bunch of drunken elves`,
+        `a man with six fingers on the right hand`,
+        `Rayden from Mortal Kombat`,
+        `a handicapped gentelman`
     ],
     delayingFactor: [
         `tried to seduce me`,
@@ -26,7 +40,15 @@ const excuseData = {
         `kept telling me knock-knock jokes`,
         `stole my bycicle`,
         `died in front of me`,
-        `ran me over with a dieselbackhoe`
+        `ran me over with a dieselbackhoe`,
+        `posted my nudes on Instagram`,
+        `stabbed me`,
+        `gave me a treasure map of The Mushroom Kingdom`,
+        `tried to kill me with an enormous axe`,
+        `created a portal to hell`,
+        `stole my identity`,
+        `gave me a speech about how to be a better person`,
+        `pissed in my shoes while I was sleeping!`
     ]
 }
 
